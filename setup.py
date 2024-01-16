@@ -20,7 +20,7 @@ setup(
     long_description_content_type="text/markdown",
     url="",
     author="Suhaibe K",
-    author_email="itsmesk000@email.com",
+    author_email="itsmesk000@gmail.com",
     license="MIT",
     classifiers=[
         "Intended Audience :: Developers",
